@@ -118,7 +118,3 @@ On World Language Day, celebrating linguistic diversity should also mean protect
 
 Sibankar Saha
 ---
-
-### 👨‍💻 Author  
-*Your Name Here*  
-Data Analyst | Language Preservation Advocate
