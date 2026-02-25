@@ -30,7 +30,7 @@ As data analysts, it becomes our responsibility to analyze trends, identify risk
 
 ## 1️⃣ Languages by Endangerment Level
 
-**Graph:** *Languages by Endangerment Level*
+<img width="571" height="558" alt="image" src="https://github.com/user-attachments/assets/b5e216db-8f1f-44c3-862d-5bd79d10aee4" />
 
 - Very few languages have already become extinct.
 - Most languages fall under:
@@ -44,7 +44,7 @@ As data analysts, it becomes our responsibility to analyze trends, identify risk
 
 ## 2️⃣ Speaker Decline Across Endangerment Stages
 
-**Graph:** *Speaker Decline Across Endangerment Stages*
+<img width="570" height="453" alt="image" src="https://github.com/user-attachments/assets/143b7267-e277-41c6-a10b-cfde33551575" />
 
 - The highest decline in speakers is observed in the **Vulnerable** stage.
 - Surprisingly, decline is rare in the **Extinct** stage (as speakers are already lost).
@@ -56,7 +56,7 @@ As data analysts, it becomes our responsibility to analyze trends, identify risk
 
 ## 3️⃣ Projected Global Language Decline
 
-**Graph:** *Projected Global Language Decline*
+<img width="580" height="453" alt="image" src="https://github.com/user-attachments/assets/6fb4813b-d872-424f-a2ed-6b605c911b21" />
 
 Languages such as:
 
@@ -77,7 +77,7 @@ For detailed analysis, refer to the GitHub repository.
 
 ## 4️⃣ Language Survival Probability Curve
 
-**Graph:** *Language Survival Probability Curve*
+<img width="567" height="453" alt="image" src="https://github.com/user-attachments/assets/e95d54f1-a9e5-42ce-9428-e0c9d5051cc4" />
 
 - The initial decline is extremely sharp.
 - Once a language becomes **"Definitely Endangered"** (children stop learning it), survival probability drops drastically.
